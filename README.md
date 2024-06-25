@@ -19,7 +19,6 @@ The data is obtained from Kaggle, a data science competition platform. The datas
 ## File Structure
 - F1DriversDataset.csv - contains the raw dataset in CSV format
 - f1.ipynb - Jupyter notebook used for data analysis
-- plots - directory containing plots generated from data analysis
 - README.md - this file
 
 
